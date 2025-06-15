@@ -44,7 +44,7 @@ log in to your Instagram account in a webbrowser
 presss f12 got to application -> storage -> cookies and copy your session ID
 
 echo "IG_SESSIONID=SESSIONID" > .env # for sessionid paste ur sessionid
-
+this sessionid is only valid for a period of time, if its not valid anymore u have to get a new sessionid and change it in the .env file
 
 Usage:
 
