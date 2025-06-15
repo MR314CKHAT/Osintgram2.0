@@ -3,7 +3,7 @@ FOR EDUCATIONAL PURPOSE ONLY!
 
 This program is currently in development. For any bugs or errors you can write me on IG levi.re19.
 
-You can find the original ccode here: https://github.com/Datalux/Osintgram
+You can find the original code here: https://github.com/Datalux/Osintgram
 It`s made with an old API. This one is up to date and working.
 
 Tools and commands:
@@ -59,6 +59,12 @@ Usage:
 python3 main.py <target_username>
 or with a command: python3 main.py <target_username> --command <command>
 
+
+
+Changes from old Osintgram
+
+updated API in Osintgram.py
+adjusted main.py
 
 
 
