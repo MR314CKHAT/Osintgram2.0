@@ -30,21 +30,22 @@ Tools and commands:
 
 
 Installation:
-git clone https://github.com/MR314CKHAT/Osintgram2.0.git
 
-cd Osintgram/Osintgram2.0
+1. git clone https://github.com/MR314CKHAT/Osintgram2.0.git
 
-python3 -m venv venv
+2. cd Osintgram/Osintgram2.0
 
-source venv/bin/activate
+3. python3 -m venv venv
 
-pip install -r requirements.txt
+4. source venv/bin/activate
 
-log in to your Instagram account in a webbrowser
+5. pip install -r requirements.txt
+
+6. log in to your Instagram account in a webbrowser
 presss f12 got to application -> storage -> cookies and copy your session ID
 
-echo "IG_SESSIONID=SESSIONID" > .env # for sessionid paste ur sessionid
-this sessionid is only valid for a period of time, if its not valid anymore u have to get a new sessionid and change it in the .env file
+7. echo "IG_SESSIONID=<SESSIONID>" > .env # for sessionid paste ur sessionid
+this sessionid is only valid for a period of time, if its not valid anymore u have to do number 6 and 7 again
 
 Usage:
 
