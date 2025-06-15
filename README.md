@@ -27,5 +27,33 @@ Tools and commands:
 - wcommented      Get a list of user who commented target's photos
 - wtagged         Get a list of user who tagged target
 
+
+
 Installation:
-git clone https://github.com/Datalux/Osintgram.git
+git clone https://github.com/MR314CKHAT/Osintgram2.0.git
+
+cd Osintgram/Osintgram2.0
+
+python3 -m venv venv
+
+source venv/bin/activate
+
+pip install -r requirements.txt
+
+log in to your Instagram account in a webbrowser
+presss f12 got to application -> storage -> cookies and copy your session ID
+
+echo "IG_SESSIONID=SESSIONID" > .env # for sessionid paste ur sessionid
+
+
+
+Usage:
+![{F9F92409-EC8F-4494-831B-DD45A7D3DCE8}](https://github.com/user-attachments/assets/a384d985-7823-4fa6-8c1a-d3a971a37e45)
+
+
+python3 main.py target_user_name
+
+
+
+
+
