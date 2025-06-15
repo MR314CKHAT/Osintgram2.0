@@ -49,6 +49,8 @@ presss f12 got to application -> storage -> cookies and copy your session ID
 7. echo "IG_SESSIONID=<SESSIONID>" > .env # for sessionid paste ur sessionid
 this sessionid is only valid for a period of time, if its not valid anymore u have to do number 6 and 7 again
 
+If you want to use docker the installation is in the oldREADME.md, but its not tested if it works.
+
 Usage:
 
 
