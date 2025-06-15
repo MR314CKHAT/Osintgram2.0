@@ -1,6 +1,8 @@
 # Osintgram2.0
 FOR EDUCATIONAL PURPOSE ONLY!
 
+This program is currently in development. For any bugs or errors you can write me on IG levi.re19.
+
 You can find the original ccode here: https://github.com/Datalux/Osintgram
 It`s made with an old API. This one is up to date and working.
 
