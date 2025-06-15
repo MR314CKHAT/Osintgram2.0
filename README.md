@@ -46,12 +46,16 @@ presss f12 got to application -> storage -> cookies and copy your session ID
 echo "IG_SESSIONID=SESSIONID" > .env # for sessionid paste ur sessionid
 
 
-
 Usage:
+
+
 ![{F9F92409-EC8F-4494-831B-DD45A7D3DCE8}](https://github.com/user-attachments/assets/a384d985-7823-4fa6-8c1a-d3a971a37e45)
 
 
-python3 main.py target_user_name
+
+python3 main.py <target_username>
+or with a command: python3 main.py <target_username> --command <command>
+
 
 
 
